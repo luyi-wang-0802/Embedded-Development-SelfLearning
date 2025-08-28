@@ -8,4 +8,3 @@ Since you have to be connected to the network to access the MQTT server, you can
 
 If you want to change the topic of the subscription, modify the MQTT_TOPIC variable; if you want to change the content extracted from the message, modify the message variable in the mqtt_callback function (raw_data is a dictionary format).
 
-Ruiming Wu, 19.04.2023
