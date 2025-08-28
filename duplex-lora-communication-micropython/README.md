@@ -6,4 +6,3 @@ The DuplexCallback file is simple to send a message and then wait to receive a m
 
 The SPI bus used for Lora communication is itself a bus that can achieve full-duplex communication, just like the UART bus used for NUS in Bluetooth communication, which has two channels for sending and receiving at the same time.
 
-Ruiming Wu, 11.04.2023
